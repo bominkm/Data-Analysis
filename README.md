@@ -4,4 +4,12 @@
 
 ## 1. ML
 
-![](About.png)
+![](ML-About.png)
+![](ML-Result.png)
+
+<br>
+
+## 2. DL
+
+![](DL-About.png)
+![](DL-Result.png)
